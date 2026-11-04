@@ -1,0 +1,482 @@
+===== Language: ar =====
+App name: أوقات الصلاة: الأذان والقبلة
+Short description: مواقيت الصلاة كما تعلنها الجهة الرسمية، الأذان، القبلة، رمضان. بلا إعلانات.
+Full description:
+مواقيت صلاة دقيقة لأي مدينة في العالم — كما تنشرها الجهة الإسلامية الرسمية في بلدك.
+
+• التقويم المحلي. في الشرق الأوسط وتركيا وروسيا وآسيا الوسطى وأوروبا وآسيا وأفريقيا والأمريكتين يحسب التطبيق المواقيت وفق منهج الجهة الرسمية: تقويم أم القرى، والهيئة المصرية العامة للمساحة، ووزارات الأوقاف، ودور الإفتاء، ورئاسة الشؤون الدينية التركية (Diyanet)، وJAKIM، وKemenag، وMUIS، والإدارات الدينية للمسلمين. وحيث يُعدّ التقويم يدويًا تُستخدم الجداول الرسمية الجاهزة. ويمكنك التحويل إلى الحساب الفلكي واختيار طريقة الحساب.
+• العصر على المذهبين — الحنفي والشافعي، مع الفرق بالدقائق.
+• الأذان في وقته. أذان المدينة المنورة، أو «حيّ على الصلاة»، أو أذان من اختيارك. يمكن إيقافه بزر التشغيل. تذكير قبل الصلاة بـ 5–30 دقيقة.
+• بوصلة القبلة والمسافة إلى مكة.
+• رمضان: السحور والإفطار للشهر كاملًا، عدّ تنازلي، الإمساك.
+• متابعة الصلوات: سجّل صلواتك، وتابع أيامك المتتالية والإحصاءات.
+• جدول المواقيت الشهري — للطباعة أو الحفظ.
+• أداة (ويدجت) على الشاشة الرئيسية مع عدّ تنازلي حتى الصلاة التالية.
+• التقويم الهجري (أم القرى) مع تعديل ±2 يوم.
+• مكانك الخاص: حسب الإحداثيات، أو «مثل مدينة قريبة» مع فارق زمني، أو جدولك السنوي الخاص. تعديلات لكل مدينة.
+• آيات قرآنية وأحاديث صحيحة عن الصلاة على الشاشة الرئيسية.
+• 30 لغة، وضع فاتح وداكن، يعمل دون إنترنت.
+
+بلا إعلانات، بلا تسجيل، بلا تتبع: كل الحسابات تتم على هاتفك.
+
+للأسئلة والاقتراحات: t.me/islam_proekti
+
+===== Language: az-AZ =====
+App name: Namaz vaxtları: azan və qiblə
+Short description: Rəsmi qurumunuzun dərc etdiyi namaz vaxtları, azan, qiblə, Ramazan. Reklamsız.
+Full description:
+Dünyanın istənilən şəhəri üçün dəqiq namaz vaxtları — ölkənizin rəsmi dini qurumunun dərc etdiyi kimi.
+
+• Yerli təqvim. Azərbaycan, Türkiyə, Rusiya, Mərkəzi Asiya, Yaxın Şərq, Avropa, Asiya, Afrika və Amerika üçün tətbiq vaxtları rəsmi qurumun metodu ilə hesablayır: Qafqaz Müsəlmanları İdarəsi, Diyanət, JAKIM, Kemenag, MUIS, vəqf nazirlikləri, müftiliklər və İslam şuraları. Təqvimin əl ilə tərtib olunduğu yerlərdə rəsmi cədvəllərdən istifadə olunur. İstəsəniz, astronomik hesablamaya keçib metod seçə bilərsiniz.
+• Hər iki məzhəbə görə əsr — hənəfi və şafei, fərq dəqiqələrlə.
+• Vaxtında azan. Mədinə azanı, “Həyyə ələs-salah” və ya öz azanınız. Qidalanma düyməsi ilə dayandırılır. 5–30 dəqiqə əvvəl xatırlatma.
+• Qiblə kompası və Məkkəyə qədər məsafə.
+• Ramazan: bütün ay üçün sahur və iftar, geri sayım, imsak.
+• Namaz izləyicisi: namazlarınızı qeyd edin, ardıcıl günləri və statistikanı görün.
+• Aylıq təqvim — çap edin və ya yadda saxlayın.
+• Növbəti namaza geri sayımla ana ekran vidceti.
+• Hicri təqvim (Ümmül-Qura), ±2 gün düzəlişlə.
+• Öz yeriniz: koordinatlara görə, “yaxın şəhər kimi” fərqlə və ya öz illik təqviminiz. Hər şəhər üçün düzəlişlər.
+• Ana ekranda namaz haqqında ayələr və səhih hədislər.
+• 30 dil, açıq və tünd tema, internetsiz işləyir.
+
+Reklam yoxdur, qeydiyyat yoxdur, izləmə yoxdur: bütün hesablamalar telefonunuzda aparılır.
+
+Suallar və təkliflər: t.me/islam_proekti
+
+===== Language: bn-BD =====
+App name: নামাজের সময়সূচি: আজান ও কিবলা
+Short description: আপনার দেশের সরকারি সংস্থার মতো নামাজের সময়, আজান, কিবলা, রমজান। বিজ্ঞাপন নেই।
+Full description:
+বিশ্বের যেকোনো শহরের জন্য নামাজের সঠিক সময় — ঠিক যেভাবে আপনার দেশের সরকারি ইসলামি সংস্থা প্রকাশ করে।
+
+• স্থানীয় সময়সূচি। বাংলাদেশ, ভারত, পাকিস্তান, মধ্যপ্রাচ্য, তুরস্ক, রাশিয়া, মধ্য এশিয়া, ইউরোপ, আফ্রিকা ও আমেরিকার জন্য অ্যাপটি সরকারি সংস্থার পদ্ধতিতে সময় হিসাব করে: ইসলামিক ফাউন্ডেশন বাংলাদেশ, দিয়ানেত, JAKIM, Kemenag, MUIS, ওয়াকফ মন্ত্রণালয়, মুফতি বোর্ড ও ইসলামি কাউন্সিল। যেখানে সময়সূচি হাতে তৈরি করা হয়, সেখানে সরকারি তালিকা ব্যবহার করা হয়। চাইলে জ্যোতির্বিজ্ঞানভিত্তিক হিসাবে গিয়ে পদ্ধতি বেছে নিতে পারেন।
+• দুই মাজহাব অনুযায়ী আসর — হানাফি ও শাফেয়ি, মিনিটে পার্থক্যসহ।
+• সময়মতো আজান। মদিনার আজান, «হাইয়া আলাস সালাহ» অথবা আপনার নিজের আজান। পাওয়ার বোতাম চাপলে থেমে যায়। 5–30 মিনিট আগে রিমাইন্ডার।
+• কিবলা কম্পাস ও মক্কার দূরত্ব।
+• রমজান: পুরো মাসের সেহরি ও ইফতার, কাউন্টডাউন, ইমসাক।
+• নামাজ ট্র্যাকার: আদায় করা নামাজ চিহ্নিত করুন, ধারাবাহিকতা ও পরিসংখ্যান দেখুন।
+• মাসিক সময়সূচি — প্রিন্ট বা সংরক্ষণ করুন।
+• হোম স্ক্রিন উইজেট, পরবর্তী নামাজের কাউন্টডাউনসহ।
+• হিজরি ক্যালেন্ডার (উম্মুল কুরা), ±2 দিন সংশোধনসহ।
+• নিজের জায়গা: স্থানাঙ্ক দিয়ে, «কাছের শহরের মতো» সময়ের পার্থক্যসহ, অথবা নিজের বার্ষিক সময়সূচি। প্রতিটি শহরের জন্য সংশোধন।
+• হোম স্ক্রিনে নামাজ সম্পর্কে কুরআনের আয়াত ও সহিহ হাদিস।
+• 30টি ভাষা, লাইট ও ডার্ক থিম, ইন্টারনেট ছাড়াই চলে।
+
+বিজ্ঞাপন নেই, নিবন্ধন নেই, নজরদারি নেই: সব হিসাব আপনার ফোনেই হয়।
+
+প্রশ্ন ও পরামর্শ: t.me/islam_proekti
+
+===== Language: de-DE =====
+App name: Gebetszeiten: Adhan & Qibla
+Short description: Gebetszeiten wie von Ihrer islamischen Stelle, Adhan, Qibla, Ramadan. Werbefrei.
+Full description:
+Genaue Gebetszeiten für jede Stadt der Welt — so, wie die offizielle islamische Stelle Ihres Landes sie veröffentlicht.
+
+• Lokaler Gebetskalender. Für Deutschland, Österreich, die Türkei, den Balkan, den Nahen Osten, Russland, Zentralasien, Europa, Asien, Afrika und Amerika rechnet die App nach der Methode der offiziellen Stelle: Diyanet (europäische Methode), Islamische Glaubensgemeinschaft in Österreich (IGGÖ), Islamische Gemeinschaft in Bosnien und Herzegowina, JAKIM, Kemenag, MUIS, Awqaf-Ministerien, Muftiate und islamische Räte. Wo der Kalender von Hand erstellt wird, werden die offiziellen Tabellen verwendet. Sie können auf astronomische Berechnung umschalten und eine Methode wählen.
+• Asr nach beiden Madhhabs — hanafitisch und schafiitisch, mit dem Unterschied in Minuten.
+• Adhan pünktlich. Adhan aus Medina, „Hayya ala-s-salah“ oder Ihr eigener Adhan. Stoppen mit der Ein-/Aus-Taste. Erinnerung 5–30 Minuten vorher.
+• Qibla-Kompass und Entfernung nach Mekka.
+• Ramadan: Suhur und Iftar für den ganzen Monat, Countdown, Imsak.
+• Gebets-Tracker: Gebete abhaken, Serie und Statistik ansehen.
+• Monatsübersicht — drucken oder speichern.
+• Startbildschirm-Widget mit Countdown bis zum nächsten Gebet.
+• Hidschri-Kalender (Umm al-Qura) mit Korrektur um ±2 Tage.
+• Eigener Ort: nach Koordinaten, „wie eine Nachbarstadt“ mit Verschiebung oder eigener Jahreskalender. Korrekturen für jede Stadt.
+• Koranverse und authentische Hadithe über das Gebet auf dem Startbildschirm.
+• 30 Sprachen, helles und dunkles Design, funktioniert offline.
+
+Keine Werbung, keine Registrierung, kein Tracking: Alle Berechnungen laufen auf Ihrem Handy.
+
+Fragen und Vorschläge: t.me/islam_proekti
+
+===== Language: en-US =====
+App name: Prayer Times: Adhan & Qibla
+Short description: Prayer times as your mufti publishes them, adhan, qibla, Ramadan. No ads.
+Full description:
+Accurate prayer times for any city in the world — the way the official Islamic authority of your country publishes them.
+
+• Local timetable. For Russia, Central Asia, Turkey, the Middle East, Europe, Asia, Africa and the Americas the app follows the method of the official body: Diyanet, JAKIM, Kemenag, MUIS, ministries of awqaf, muftiates and Islamic councils. Where the timetable is compiled by hand, the official tables are used. You can switch to astronomical calculation and pick a method.
+• Asr for both madhabs — Hanafi and Shafi‘i, with the difference in minutes.
+• Adhan on time. Adhan of Madinah, “Hayya ‘ala-s-salah” or your own adhan. Stop it with the power button. Reminders 5–30 minutes before.
+• Qibla compass and distance to Makkah.
+• Ramadan: suhoor and iftar for the whole month, countdown, imsak.
+• Prayer tracker: mark your prayers, see your streak and statistics.
+• Monthly timetable — print or save.
+• Home screen widget with a countdown to the next prayer.
+• Hijri calendar (Umm al-Qura) with a ±2 day adjustment.
+• Your own place: by coordinates, “like a nearby city” with an offset, or your own yearly timetable. Adjustments per city.
+• Quran verses and authentic hadith about prayer on the home screen.
+• 30 languages, light and dark theme, works offline.
+
+No ads, no sign-up, no tracking: all calculations happen on your phone.
+
+Questions and suggestions: t.me/islam_proekti
+
+===== Language: es-ES =====
+App name: Horarios de oración y qibla
+Short description: Horarios de oración oficiales de su país, adhan, qibla, Ramadán. Sin anuncios.
+Full description:
+Horarios de oración precisos para cualquier ciudad del mundo, tal como los publica la autoridad islámica oficial de su país.
+
+• Horario local. Para Marruecos, Argelia, Túnez, Turquía, Oriente Medio, Rusia, Asia Central, Europa, Asia, África y América, la aplicación sigue el método del organismo oficial: Ministerio de Habices y Asuntos Islámicos de Marruecos, Ministerio de Asuntos Religiosos de Argelia, Diyanet, JAKIM, Kemenag, MUIS, ministerios de awqaf, muftiatos y consejos islámicos. Donde el horario se elabora a mano, se usan las tablas oficiales. Puede cambiar al cálculo astronómico y elegir un método.
+• Asr según ambos madhabs: hanafí y shafi'í, con la diferencia en minutos.
+• Adhan puntual. Adhan de Medina, «Hayya ala-s-salah» o su propio adhan. Se detiene con el botón de encendido. Aviso de 5 a 30 minutos antes.
+• Brújula de la qibla y distancia a La Meca.
+• Ramadán: suhur e iftar de todo el mes, cuenta atrás, imsak.
+• Registro de oraciones: marque sus oraciones, consulte su racha y sus estadísticas.
+• Horario mensual: para imprimir o guardar.
+• Widget de pantalla de inicio con cuenta atrás hasta la siguiente oración.
+• Calendario de la Hégira (Umm al-Qura) con ajuste de ±2 días.
+• Su propio lugar: por coordenadas, «como una ciudad cercana» con un desfase o su propio horario anual. Ajustes para cada ciudad.
+• Aleyas del Corán y hadices auténticos sobre la oración en la pantalla de inicio.
+• 30 idiomas, tema claro y oscuro, funciona sin conexión.
+
+Sin anuncios, sin registro, sin rastreo: todos los cálculos se hacen en su teléfono.
+
+Preguntas y sugerencias: t.me/islam_proekti
+
+===== Language: fa =====
+App name: اوقات شرعی نماز: اذان و قبله
+Short description: اوقات نماز مطابق اعلام نهاد رسمی کشورتان، اذان، قبله، رمضان. بدون تبلیغ.
+Full description:
+اوقات دقیق نماز برای هر شهری در جهان — همان‌طور که نهاد رسمی اسلامی کشورتان منتشر می‌کند.
+
+• اوقات محلی. برای ایران، افغانستان، خاورمیانه، ترکیه، روسیه، آسیای مرکزی، اروپا، آسیا، آفریقا و قاره آمریکا، برنامه اوقات را به روش نهاد رسمی محاسبه می‌کند: مؤسسه ژئوفیزیک دانشگاه تهران، وزارت ارشاد، حج و اوقاف افغانستان، دیانت، JAKIM، Kemenag، MUIS، وزارتخانه‌های اوقاف، دارالافتاها و شوراهای اسلامی. جایی که جدول اوقات به‌صورت دستی تنظیم می‌شود، از جدول‌های رسمی استفاده می‌شود. می‌توانید به محاسبه نجومی بروید و روش را انتخاب کنید.
+• عصر به هر دو مذهب — حنفی و شافعی، با اختلاف به دقیقه.
+• اذان سر وقت. اذان مدینه، «حیّ علی الصلاة» یا اذان دلخواه شما. با دکمه پاور قطع می‌شود. یادآوری 5 تا 30 دقیقه پیش از وقت.
+• قطب‌نمای قبله و فاصله تا مکه.
+• رمضان: سحری و افطار برای تمام ماه، شمارش معکوس، امساک.
+• پیگیری نمازها: نمازهایتان را علامت بزنید، روزهای پیاپی و آمار را ببینید.
+• جدول اوقات ماهانه — چاپ یا ذخیره.
+• ویجت صفحه اصلی با شمارش معکوس تا نماز بعدی.
+• تقویم هجری قمری (ام‌القری) با تصحیح ±2 روز.
+• مکان خودتان: بر اساس مختصات، «مانند شهر نزدیک» با اختلاف زمانی، یا جدول سالانه خودتان. تصحیح برای هر شهر.
+• آیات قرآن و احادیث صحیح درباره نماز در صفحه اصلی.
+• 30 زبان، پوسته روشن و تیره، بدون اینترنت کار می‌کند.
+
+بدون تبلیغ، بدون ثبت‌نام، بدون ردیابی: همه محاسبات روی گوشی شما انجام می‌شود.
+
+پرسش‌ها و پیشنهادها: t.me/islam_proekti
+
+===== Language: fr-FR =====
+App name: Horaires de prière et qibla
+Short description: Horaires de prière officiels, adhan, qibla, ramadan. Sans publicité.
+Full description:
+Des horaires de prière précis pour toutes les villes du monde — tels que les publie l'autorité islamique officielle de votre pays.
+
+• Horaires locaux. Pour la France, la Belgique, le Maghreb, l'Afrique de l'Ouest, la Turquie, le Moyen-Orient, la Russie, l'Asie centrale, l'Europe, l'Asie et les Amériques, l'application suit la méthode de l'organisme officiel : UOIF, Mosquées de France, Grande Mosquée de Lyon, Exécutif des Musulmans de Belgique, ministère des Habous et des Affaires islamiques du Maroc, ministère des Affaires religieuses d'Algérie, COSIM (Côte d'Ivoire), Diyanet, JAKIM, Kemenag, MUIS, ministères des awqaf, muftiats et conseils islamiques. Là où les horaires sont établis à la main, les tableaux officiels sont utilisés. Vous pouvez passer au calcul astronomique et choisir une méthode.
+• Asr selon les deux madhabs — hanafite et chaféite, avec l'écart en minutes.
+• L'adhan à l'heure. Adhan de Médine, « Hayya 'ala-s-salah » ou votre propre adhan. Arrêt avec le bouton marche/arrêt. Rappel 5 à 30 minutes avant.
+• Boussole de la qibla et distance jusqu'à La Mecque.
+• Ramadan : s'hour et iftar pour tout le mois, compte à rebours, imsak.
+• Suivi des prières : cochez vos prières, consultez votre série et vos statistiques.
+• Horaires du mois — à imprimer ou à enregistrer.
+• Widget d'écran d'accueil avec compte à rebours jusqu'à la prochaine prière.
+• Calendrier hégirien (Umm al-Qura) avec ajustement de ±2 jours.
+• Votre propre lieu : par coordonnées, « comme une ville voisine » avec un décalage, ou votre propre calendrier annuel. Ajustements pour chaque ville.
+• Versets du Coran et hadiths authentiques sur la prière sur l'écran d'accueil.
+• 30 langues, thème clair et sombre, fonctionne hors ligne.
+
+Sans publicité, sans inscription, sans pistage : tous les calculs sont effectués sur votre téléphone.
+
+Questions et suggestions : t.me/islam_proekti
+
+===== Language: hi-IN =====
+App name: नमाज़ के औक़ात: अज़ान, क़िबला
+Short description: आधिकारिक संस्था जैसा नमाज़ का समय, अज़ान, क़िबला, रमज़ान। बिना विज्ञापन।
+Full description:
+दुनिया के किसी भी शहर के लिए नमाज़ का सही समय — ठीक वैसा, जैसा आपके देश की आधिकारिक इस्लामी संस्था प्रकाशित करती है।
+
+• स्थानीय समय-सारणी। भारत, पाकिस्तान, बांग्लादेश, मध्य पूर्व, तुर्की, रूस, मध्य एशिया, यूरोप, अफ़्रीका और अमेरिका के लिए ऐप आधिकारिक संस्था की पद्धति से समय निकालता है: समस्त केरल (स्थायी समय-सारणी), दारुल उलूम रहीमिया (कश्मीर), भारत के उलमा (कराची पद्धति), जामिया उलूम-उल-इस्लामिया बनूरी टाउन, इस्लामिक फ़ाउंडेशन बांग्लादेश, दियानत, JAKIM, Kemenag, MUIS, औक़ाफ़ मंत्रालय, मुफ़्ती बोर्ड और इस्लामी परिषदें। जहाँ समय-सारणी हाथ से बनाई जाती है, वहाँ आधिकारिक तालिकाएँ इस्तेमाल होती हैं। आप खगोलीय गणना पर भी जा सकते हैं और पद्धति चुन सकते हैं।
+• दोनों मसलकों के अनुसार अस्र — हनफ़ी और शाफ़ई, मिनटों में अंतर के साथ।
+• समय पर अज़ान। मदीना की अज़ान, «हय्या अलस्-सलाह» या आपकी अपनी अज़ान। पावर बटन से बंद करें। 5–30 मिनट पहले रिमाइंडर।
+• क़िबला कंपास और मक्का तक की दूरी।
+• रमज़ान: पूरे महीने की सहरी और इफ़्तार, उलटी गिनती, इमसाक।
+• नमाज़ ट्रैकर: अपनी नमाज़ें दर्ज करें, लगातार दिन और आँकड़े देखें।
+• महीने की समय-सारणी — प्रिंट करें या सेव करें।
+• होम स्क्रीन विजेट, अगली नमाज़ तक उलटी गिनती के साथ।
+• हिजरी कैलेंडर (उम्म अल-क़ुरा), ±2 दिन के सुधार के साथ।
+• अपनी जगह: निर्देशांकों से, «पास के शहर की तरह» अंतर के साथ, या अपनी सालाना समय-सारणी। हर शहर के लिए सुधार।
+• होम स्क्रीन पर नमाज़ के बारे में क़ुरआन की आयतें और सहीह हदीसें।
+• 30 भाषाएँ, लाइट और डार्क थीम, बिना इंटरनेट के चलता है।
+
+न विज्ञापन, न रजिस्ट्रेशन, न ट्रैकिंग: सारी गणनाएँ आपके फ़ोन पर ही होती हैं।
+
+सवाल और सुझाव: t.me/islam_proekti
+
+===== Language: id =====
+App name: Jadwal Sholat: Azan & Kiblat
+Short description: Jadwal sholat sesuai lembaga resmi, azan, kiblat, Ramadan. Tanpa iklan.
+Full description:
+Jadwal sholat akurat untuk kota mana pun di dunia — sesuai yang diterbitkan lembaga Islam resmi di negara Anda.
+
+• Jadwal lokal. Untuk Indonesia, Malaysia, Brunei, Turki, Timur Tengah, Rusia, Asia Tengah, Eropa, Asia, Afrika, dan Amerika, aplikasi menghitung waktu sholat dengan metode lembaga resmi: Kemenag, JAKIM, MUIS, Kementerian Hal Ehwal Ugama Brunei, Diyanet, kementerian wakaf, lembaga mufti, dan dewan Islam. Jika jadwal disusun secara manual, digunakan tabel resmi. Anda juga bisa beralih ke perhitungan astronomis dan memilih metodenya.
+• Ashar menurut dua mazhab — Hanafi dan Syafi'i, beserta selisihnya dalam menit.
+• Azan tepat waktu. Azan Madinah, «Hayya 'alash-shalah», atau azan pilihan Anda sendiri. Hentikan dengan tombol daya. Pengingat 5–30 menit sebelumnya.
+• Kompas kiblat dan jarak ke Makkah.
+• Ramadan: jadwal sahur dan berbuka sebulan penuh, hitung mundur, imsak.
+• Pelacak sholat: tandai sholat Anda, lihat rangkaian hari dan statistik.
+• Jadwal bulanan — cetak atau simpan.
+• Widget layar utama dengan hitung mundur ke sholat berikutnya.
+• Kalender Hijriah (Umm al-Qura) dengan koreksi ±2 hari.
+• Lokasi Anda sendiri: berdasarkan koordinat, «seperti kota terdekat» dengan selisih waktu, atau jadwal tahunan Anda sendiri. Koreksi untuk setiap kota.
+• Ayat Al-Qur'an dan hadis sahih tentang sholat di layar utama.
+• 30 bahasa, tema terang dan gelap, berfungsi tanpa internet.
+
+Tanpa iklan, tanpa pendaftaran, tanpa pelacakan: semua perhitungan dilakukan di ponsel Anda.
+
+Pertanyaan dan saran: t.me/islam_proekti
+
+===== Language: kk =====
+App name: Намаз уақыттары: азан, құбыла
+Short description: Намаз уақыты муфтиятыңыз жариялағандай, азан, құбыла, Рамазан. Жарнамасыз.
+Full description:
+Әлемнің кез келген қаласы үшін намаздың нақты уақыты — еліңіздегі ресми діни басқарма жариялағандай.
+
+• Жергілікті кесте. Қазақстан, Ресей, Орталық Азия, Түркия, Таяу Шығыс, Еуропа, Азия, Африка және Америка үшін қосымша уақытты ресми органның әдісімен есептейді: ҚМДБ, Ресей, Өзбекстан және Қырғызстан мұсылмандарының діни басқармалары, Диянет, JAKIM, Kemenag, MUIS, уақф министрліктері, муфтияттар мен ислам кеңестері. Кесте қолмен құрастырылған жерлерде ресми кестелер қолданылады. Қаласаңыз, астрономиялық есепке ауысып, әдісті таңдай аласыз.
+• Екі мазхаб бойынша екінті — ханафи және шафиғи, айырмасы минутпен.
+• Уақытында азан. Мәдина азаны, «Хайя аләс-салаһ» немесе өз азаныңыз. Қуат түймесімен тоқтатылады. 5–30 минут бұрын еске салу.
+• Құбыла компасы және Меккеге дейінгі қашықтық.
+• Рамазан: бүкіл айға сәресі мен ауызашар уақыты, кері санақ, имсак.
+• Намаз трекері: оқыған намаздарыңызды белгілеңіз, қатарынан күндер мен статистиканы көріңіз.
+• Айлық кесте — басып шығару және сақтау.
+• Келесі намазға дейінгі кері санағы бар басты экран виджеті.
+• Хижра күнтізбесі (Умм әл-Құра), ±2 күн түзетумен.
+• Өз мекеніңіз: координаттар бойынша, «жақын қаладағыдай» ауытқумен немесе өз жылдық кестеңіз. Әр қалаға түзетулер.
+• Басты экранда намаз туралы аяттар мен сахих хадистер.
+• 30 тіл, ашық және қараңғы тақырып, интернетсіз жұмыс істейді.
+
+Жарнама жоқ, тіркелу жоқ, бақылау жоқ: барлық есептеу телефоныңызда орындалады.
+
+Сұрақтар мен ұсыныстар: t.me/islam_proekti
+
+===== Language: ky-KG =====
+App name: Намаз убакыттары жана кыбыла
+Short description: Намаз убактысы муфтиятыңыз жарыялагандай, азан, кыбыла, Рамазан. Жарнамасыз.
+Full description:
+Дүйнөнүн каалаган шаары үчүн так намаз убактысы — өлкөңүздөгү расмий диний башкарма жарыялагандай.
+
+• Жергиликтүү жадыбал. Кыргызстан, Казакстан, Өзбекстан, Россия, Түркия, Жакынкы Чыгыш, Европа, Азия, Африка жана Америка үчүн тиркеме убакытты расмий органдын ыкмасы менен эсептейт: Кыргызстан мусулмандарынын дин башкармалыгы, Казакстан, Өзбекстан жана Россия мусулмандарынын диний башкармалары, Диянет, JAKIM, Kemenag, MUIS, вакф министрликтери, муфтияттар жана ислам кеңештери. Жадыбал кол менен түзүлгөн жерлерде расмий таблицалар колдонулат. Кааласаңыз, астрономиялык эсепке өтүп, ыкманы тандай аласыз.
+• Эки мазхаб боюнча аср — ханафий жана шафии, айырмасы мүнөт менен.
+• Убагында азан. Мединанын азаны, «Хаййа ала-с-салах» же өзүңүздүн азаныңыз. Кубат баскычы менен токтотулат. 5–30 мүнөт мурун эскертүү.
+• Кыбыла компасы жана Меккеге чейинки аралык.
+• Рамазан: бүт айга саарлык жана ифтар убактысы, тескери эсеп, имсак.
+• Намаз трекери: окуган намаздарыңызды белгилеңиз, катары менен күндөрдү жана статистиканы көрүңүз.
+• Айлык жадыбал — басып чыгаруу же сактоо.
+• Кийинки намазга чейинки тескери эсеби бар башкы экран виджети.
+• Хижра календары (Умм аль-Кура), ±2 күн оңдоо менен.
+• Өз жериңиз: координаттар боюнча, «жакынкы шаардагыдай» жылдыруу менен же өзүңүздүн жылдык жадыбалыңыз. Ар бир шаар үчүн оңдоолор.
+• Башкы экранда намаз жөнүндө аяттар жана сахих хадистер.
+• 30 тил, жарык жана караңгы тема, интернетсиз иштейт.
+
+Жарнама жок, катталуу жок, көз салуу жок: бардык эсептөөлөр телефонуңузда аткарылат.
+
+Суроолор жана сунуштар: t.me/islam_proekti
+
+===== Language: ml-IN =====
+App name: നമസ്കാര സമയം: ബാങ്ക്, ഖിബ്‌ല
+Short description: ഔദ്യോഗിക സമയപ്പട്ടിക പോലെ നമസ്കാര സമയം, ബാങ്ക്, ഖിബ്‌ല, റമദാൻ. പരസ്യമില്ല.
+Full description:
+ലോകത്തിലെ ഏത് നഗരത്തിനും കൃത്യമായ നമസ്കാര സമയം — നിങ്ങളുടെ രാജ്യത്തെ ഔദ്യോഗിക ഇസ്‌ലാമിക സ്ഥാപനം പ്രസിദ്ധീകരിക്കുന്നതുപോലെ.
+
+• പ്രാദേശിക സമയപ്പട്ടിക. ഇന്ത്യ, ഗൾഫ് രാജ്യങ്ങൾ, മധ്യപൗരസ്ത്യ ദേശം, തുർക്കി, റഷ്യ, മധ്യേഷ്യ, യൂറോപ്പ്, ഏഷ്യ, ആഫ്രിക്ക, അമേരിക്ക എന്നിവിടങ്ങളിൽ ഔദ്യോഗിക സ്ഥാപനത്തിന്റെ രീതിയിലാണ് ആപ്പ് സമയം കണക്കാക്കുന്നത്: സമസ്ത കേരള (സ്ഥിര സമയപ്പട്ടിക), ഉമ്മുൽ ഖുറാ, ഗൾഫ് രാജ്യങ്ങളിലെ ഔഖാഫ് മന്ത്രാലയങ്ങൾ, ദിയാനത്ത്, JAKIM, Kemenag, MUIS, മുഫ്തി കാര്യാലയങ്ങൾ, ഇസ്‌ലാമിക കൗൺസിലുകൾ. സമയപ്പട്ടിക കൈകൊണ്ട് തയ്യാറാക്കുന്നിടത്ത് ഔദ്യോഗിക പട്ടികകൾ ഉപയോഗിക്കുന്നു. വേണമെങ്കിൽ ജ്യോതിശാസ്ത്ര കണക്കുകൂട്ടലിലേക്ക് മാറി രീതി തിരഞ്ഞെടുക്കാം.
+• രണ്ട് മദ്ഹബ് പ്രകാരവും അസ്ർ — ഹനഫി, ശാഫിഈ, വ്യത്യാസം മിനിറ്റിൽ.
+• കൃത്യസമയത്ത് ബാങ്ക്. മദീനയിലെ ബാങ്ക്, «ഹയ്യ അലസ്സ്വലാ» അല്ലെങ്കിൽ നിങ്ങളുടെ സ്വന്തം ബാങ്ക്. പവർ ബട്ടൺ അമർത്തി നിർത്താം. 5–30 മിനിറ്റ് മുമ്പ് ഓർമ്മപ്പെടുത്തൽ.
+• ഖിബ്‌ല കോമ്പസും മക്കയിലേക്കുള്ള ദൂരവും.
+• റമദാൻ: മാസം മുഴുവൻ അത്താഴവും നോമ്പുതുറയും, കൗണ്ട്ഡൗൺ, ഇംസാക്.
+• നമസ്കാര ട്രാക്കർ: നമസ്കാരങ്ങൾ അടയാളപ്പെടുത്തുക, തുടർച്ചയായ ദിവസങ്ങളും സ്ഥിതിവിവരക്കണക്കുകളും കാണുക.
+• മാസത്തെ സമയപ്പട്ടിക — പ്രിന്റ് ചെയ്യാം, സേവ് ചെയ്യാം.
+• അടുത്ത നമസ്കാരത്തിലേക്കുള്ള കൗണ്ട്ഡൗണുള്ള ഹോം സ്ക്രീൻ വിജറ്റ്.
+• ഹിജ്റ കലണ്ടർ (ഉമ്മുൽ ഖുറാ), ±2 ദിവസം തിരുത്തലോടെ.
+• നിങ്ങളുടെ സ്വന്തം സ്ഥലം: കോർഡിനേറ്റുകൾ പ്രകാരം, «അടുത്തുള്ള നഗരം പോലെ» സമയവ്യത്യാസത്തോടെ, അല്ലെങ്കിൽ സ്വന്തം വാർഷിക സമയപ്പട്ടിക. ഓരോ നഗരത്തിനും തിരുത്തലുകൾ.
+• ഹോം സ്ക്രീനിൽ നമസ്കാരത്തെക്കുറിച്ചുള്ള ഖുർആൻ ആയത്തുകളും സ്വഹീഹായ ഹദീസുകളും.
+• 30 ഭാഷകൾ, ലൈറ്റ്, ഡാർക്ക് തീം, ഇന്റർനെറ്റ് ഇല്ലാതെയും പ്രവർത്തിക്കും.
+
+പരസ്യമില്ല, രജിസ്ട്രേഷനില്ല, ട്രാക്കിംഗില്ല: എല്ലാ കണക്കുകൂട്ടലുകളും നിങ്ങളുടെ ഫോണിൽ തന്നെ.
+
+ചോദ്യങ്ങളും നിർദ്ദേശങ്ങളും: t.me/islam_proekti
+
+===== Language: ms =====
+App name: Waktu Solat: Azan & Kiblat
+Short description: Waktu solat mengikut pihak berkuasa agama, azan, kiblat, Ramadan. Tanpa iklan.
+Full description:
+Waktu solat yang tepat untuk mana-mana bandar di dunia — sebagaimana diterbitkan oleh pihak berkuasa agama Islam rasmi di negara anda.
+
+• Jadual tempatan. Bagi Malaysia, Brunei, Indonesia, Turki, Timur Tengah, Rusia, Asia Tengah, Eropah, Asia, Afrika dan benua Amerika, aplikasi mengira waktu mengikut kaedah badan rasmi: JAKIM, Kementerian Hal Ehwal Ugama Brunei, MUIS, Kemenag, Diyanet, kementerian wakaf, pejabat mufti dan majlis Islam. Di tempat jadual disusun secara manual, jadual rasmi digunakan. Anda boleh bertukar kepada kiraan astronomi dan memilih kaedahnya.
+• Asar mengikut dua mazhab — Hanafi dan Syafie, berserta perbezaan dalam minit.
+• Azan tepat pada waktunya. Azan Madinah, «Hayya 'alas-solah» atau azan anda sendiri. Hentikan dengan butang kuasa. Peringatan 5–30 minit lebih awal.
+• Kompas kiblat dan jarak ke Makkah.
+• Ramadan: waktu sahur dan berbuka sepanjang bulan, kiraan detik, imsak.
+• Penjejak solat: tandakan solat anda, lihat rentetan hari dan statistik.
+• Jadual bulanan — cetak atau simpan.
+• Widget skrin utama dengan kiraan detik ke solat seterusnya.
+• Kalendar Hijrah (Umm al-Qura) dengan pelarasan ±2 hari.
+• Lokasi anda sendiri: mengikut koordinat, «seperti bandar berhampiran» dengan perbezaan masa, atau jadual tahunan anda sendiri. Pelarasan bagi setiap bandar.
+• Ayat al-Quran dan hadis sahih tentang solat di skrin utama.
+• 30 bahasa, tema cerah dan gelap, berfungsi tanpa internet.
+
+Tiada iklan, tiada pendaftaran, tiada penjejakan: semua kiraan dibuat pada telefon anda.
+
+Soalan dan cadangan: t.me/islam_proekti
+
+===== Language: pt-PT =====
+App name: Horários de oração e qibla
+Short description: Horários de oração oficiais do seu país, adhan, qibla, Ramadão. Sem anúncios.
+Full description:
+Horários de oração precisos para qualquer cidade do mundo, tal como os publica a autoridade islâmica oficial do seu país.
+
+• Horário local. Para Marrocos, Moçambique, Turquia, Médio Oriente, Rússia, Ásia Central, Europa, Ásia, África e as Américas, incluindo o Brasil, a aplicação segue o método do organismo oficial: Mesquita Brasil (São Paulo), Ministério dos Habous e dos Assuntos Islâmicos de Marrocos, Diyanet, JAKIM, Kemenag, MUIS, ministérios dos awqaf, muftiados e conselhos islâmicos. Onde o horário é elaborado à mão, são usadas as tabelas oficiais. Pode mudar para o cálculo astronómico e escolher um método.
+• Asr segundo ambos os madhabs: hanafi e shafi'i, com a diferença em minutos.
+• Adhan à hora certa. Adhan de Medina, «Hayya ala-s-salah» ou o seu próprio adhan. Para com o botão de ligar/desligar. Lembrete 5 a 30 minutos antes.
+• Bússola da qibla e distância até Meca.
+• Ramadão: suhur e iftar para todo o mês, contagem decrescente, imsak.
+• Registo de orações: marque as suas orações, veja a sua série e estatísticas.
+• Horário mensal: para imprimir ou guardar.
+• Widget no ecrã principal com contagem decrescente até à próxima oração.
+• Calendário da Hégira (Umm al-Qura) com ajuste de ±2 dias.
+• O seu próprio local: por coordenadas, «como uma cidade vizinha» com desfasamento, ou o seu próprio horário anual. Ajustes para cada cidade.
+• Versículos do Alcorão e hadiths autênticos sobre a oração no ecrã principal.
+• 30 idiomas, tema claro e escuro, funciona sem internet.
+
+Sem anúncios, sem registo, sem rastreio: todos os cálculos são feitos no seu telemóvel.
+
+Perguntas e sugestões: t.me/islam_proekti
+
+===== Language: sq =====
+App name: Kohët e namazit: ezani, kibla
+Short description: Kohët e namazit si i publikon institucioni juaj fetar, ezani, kibla, Ramazani.
+Full description:
+Kohë të sakta të namazit për çdo qytet në botë — ashtu si i publikon institucioni zyrtar islam i vendit tuaj.
+
+• Takvim vendor. Për Shqipërinë, Kosovën, Maqedoninë e Veriut, Bosnjën, Malin e Zi, Turqinë, Lindjen e Mesme, Rusinë, Azinë Qendrore, Evropën, Azinë, Afrikën dhe Amerikat, aplikacioni i llogarit kohët sipas metodës së organit zyrtar: Komuniteti Mysliman i Shqipërisë, Bashkësia Islame e Kosovës, Bashkësia Fetare Islame e Maqedonisë së Veriut, Bashkësia Islame e Bosnjë e Hercegovinës, Bashkësia Islame e Malit të Zi, Diyaneti, JAKIM, Kemenag, MUIS, ministritë e vakëfeve, myftinitë dhe këshillat islame. Aty ku takvimi hartohet me dorë, përdoren tabelat zyrtare. Mund të kaloni në llogaritje astronomike dhe të zgjidhni metodën.
+• Ikindia sipas dy medhhebeve — hanefi dhe shafii, me diferencën në minuta.
+• Ezani në kohë. Ezani i Medines, «Hajja ales-salah» ose ezani juaj. Ndalet me butonin e ndezjes. Kujtesë 5–30 minuta përpara.
+• Busulla e kibles dhe distanca deri në Mekë.
+• Ramazani: syfyri dhe iftari për gjithë muajin, numërim mbrapsht, imsaku.
+• Ditari i namazeve: shënoni namazet, shikoni serinë dhe statistikat.
+• Takvimi mujor — printojeni ose ruajeni.
+• Widget në ekranin kryesor me numërim mbrapsht deri te namazi i radhës.
+• Kalendari hixhri (Umm al-Qura) me korrigjim ±2 ditë.
+• Vendi juaj: sipas koordinatave, «si një qytet afër» me zhvendosje, ose takvimi juaj vjetor. Korrigjime për çdo qytet.
+• Ajete kuranore dhe hadithe të sakta për namazin në ekranin kryesor.
+• 30 gjuhë, temë e çelët dhe e errët, punon pa internet.
+
+Pa reklama, pa regjistrim, pa gjurmim: të gjitha llogaritjet bëhen në telefonin tuaj.
+
+Pyetje dhe sugjerime: t.me/islam_proekti
+
+===== Language: sw =====
+App name: Nyakati za Swala na Kibla
+Short description: Nyakati rasmi za swala, adhana, kibla, Ramadhani. Bila matangazo.
+Full description:
+Nyakati sahihi za swala kwa mji wowote duniani — kama zinavyotangazwa na mamlaka rasmi ya Kiislamu ya nchi yako.
+
+• Ratiba ya eneo. Kwa Kenya, Tanzania, Uganda, Komoro, nchi nyingine za Afrika, Mashariki ya Kati, Uturuki, Urusi, Asia ya Kati, Ulaya, Asia na Amerika, programu hukokotoa nyakati kwa mbinu ya chombo rasmi: Msikiti wa Jamia Nairobi, Baraza Kuu la Maimamu wa Côte d'Ivoire (COSIM), Diyanet, JAKIM, Kemenag, MUIS, wizara za wakfu, ofisi za mufti na mabaraza ya Kiislamu. Mahali ratiba inapoandaliwa kwa mkono, hutumika majedwali rasmi. Unaweza kubadili kwenda hesabu ya kiastronomia na kuchagua mbinu.
+• Alasiri kwa madhehebu yote mawili — Hanafi na Shafii, pamoja na tofauti kwa dakika.
+• Adhana kwa wakati. Adhana ya Madina, «Hayya ala s-salah» au adhana yako mwenyewe. Isimamishe kwa kitufe cha kuwasha. Ukumbusho dakika 5–30 kabla.
+• Dira ya kibla na umbali hadi Makka.
+• Ramadhani: daku na futari kwa mwezi mzima, muda uliobaki, imsaki.
+• Kifuatiliaji cha swala: weka alama kwenye swala zako, ona mfululizo wa siku na takwimu.
+• Ratiba ya mwezi — chapisha au hifadhi.
+• Wijeti ya skrini kuu yenye muda uliobaki hadi swala inayofuata.
+• Kalenda ya Hijria (Umm al-Qura) yenye marekebisho ya siku ±2.
+• Mahali pako mwenyewe: kwa viwianishi, «kama mji wa jirani» kwa tofauti ya muda, au ratiba yako ya mwaka. Marekebisho kwa kila mji.
+• Aya za Qur'ani na hadithi sahihi kuhusu swala kwenye skrini kuu.
+• Lugha 30, mandhari angavu na meusi, inafanya kazi bila intaneti.
+
+Bila matangazo, bila kujisajili, bila ufuatiliaji: hesabu zote hufanyika kwenye simu yako.
+
+Maswali na mapendekezo: t.me/islam_proekti
+
+===== Language: tr-TR =====
+App name: Namaz Vakitleri: Ezan ve Kıble
+Short description: Resmî kurumunuzun yayımladığı namaz vakitleri, ezan, kıble, Ramazan. Reklamsız.
+Full description:
+Dünyanın her şehri için doğru namaz vakitleri — ülkenizdeki resmî dinî kurumun yayımladığı şekliyle.
+
+• Yerel takvim. Türkiye, Rusya, Orta Asya, Orta Doğu, Avrupa, Asya, Afrika ve Amerika kıtası için uygulama vakitleri resmî kurumun yöntemiyle hesaplar: Diyanet İşleri Başkanlığı, KKTC Din İşleri Dairesi, İskeçe ve Gümülcine müftülükleri, JAKIM, Kemenag, MUIS, evkaf bakanlıkları, müftülükler ve İslam konseyleri. Takvimin elle hazırlandığı yerlerde resmî tablolar kullanılır. İsterseniz astronomik hesaba geçip yöntem seçebilirsiniz.
+• İki mezhebe göre ikindi — Hanefî ve Şafiî, aradaki fark dakika olarak.
+• Vaktinde ezan. Medine ezanı, “Hayye ale's-salâh” ya da kendi ezanınız. Güç tuşuyla susturulur. 5–30 dakika önceden hatırlatma.
+• Kıble pusulası ve Mekke'ye uzaklık.
+• Ramazan: bütün ay için sahur ve iftar vakitleri, geri sayım, imsak.
+• Namaz takibi: kıldığınız namazları işaretleyin, serinizi ve istatistikleri görün.
+• Aylık imsakiye — yazdırın veya kaydedin.
+• Sonraki namaza geri sayım gösteren ana ekran widget'ı.
+• Hicri takvim (Ümmü'l-Kurâ), ±2 gün düzeltmeyle.
+• Kendi yeriniz: koordinatlara göre, “yakındaki bir şehir gibi” farkla ya da kendi yıllık takviminiz. Her şehir için düzeltmeler.
+• Ana ekranda namazla ilgili ayetler ve sahih hadisler.
+• 30 dil, açık ve koyu tema, internetsiz çalışır.
+
+Reklam yok, kayıt yok, takip yok: tüm hesaplamalar telefonunuzda yapılır.
+
+Soru ve önerileriniz için: t.me/islam_proekti
+
+===== Language: ur =====
+App name: اوقاتِ نماز: اذان اور قبلہ
+Short description: سرکاری ادارے کے مطابق اوقاتِ نماز، اذان، قبلہ، رمضان۔ اشتہارات کے بغیر۔
+Full description:
+دنیا کے کسی بھی شہر کے لیے نماز کے درست اوقات — بالکل ویسے جیسے آپ کے ملک کا سرکاری اسلامی ادارہ انہیں شائع کرتا ہے۔
+
+• مقامی نظام الاوقات۔ پاکستان، بھارت، بنگلہ دیش، مشرقِ وسطیٰ، ترکی، روس، وسطی ایشیا، یورپ، افریقہ اور امریکہ کے لیے ایپ سرکاری ادارے کے طریقے سے اوقات نکالتی ہے: جامعہ علوم اسلامیہ بنوری ٹاؤن، جامعہ کراچی کا طریقہ، اسلامک فاؤنڈیشن بنگلہ دیش، دیانت، JAKIM، Kemenag، MUIS، وزارتِ اوقاف، دارالافتاء، مفتیان کے ادارے اور اسلامی کونسلیں۔ جہاں نقشۂ اوقات ہاتھ سے تیار کیا جاتا ہے، وہاں سرکاری جدولیں استعمال ہوتی ہیں۔ آپ فلکیاتی حساب پر بھی جا سکتے ہیں اور طریقہ منتخب کر سکتے ہیں۔
+• دونوں فقہی مسالک کے مطابق عصر — حنفی اور شافعی، منٹوں میں فرق کے ساتھ۔
+• وقت پر اذان۔ مدینہ کی اذان، «حیَّ علی الصلاۃ» یا آپ کی اپنی اذان۔ پاور بٹن سے بند کریں۔ 5–30 منٹ پہلے یاد دہانی۔
+• قبلہ کمپاس اور مکہ تک فاصلہ۔
+• رمضان: پورے مہینے کی سحری اور افطار، الٹی گنتی، امساک۔
+• نماز ٹریکر: اپنی نمازیں درج کریں، مسلسل دن اور اعداد و شمار دیکھیں۔
+• ماہانہ نقشۂ اوقات — پرنٹ کریں یا محفوظ کریں۔
+• ہوم اسکرین ویجیٹ، اگلی نماز تک الٹی گنتی کے ساتھ۔
+• ہجری کیلنڈر (ام القریٰ)، ±2 دن کی تصحیح کے ساتھ۔
+• اپنی جگہ: کوآرڈینیٹس کے ذریعے، «قریبی شہر کی طرح» فرق کے ساتھ، یا اپنا سالانہ نقشۂ اوقات۔ ہر شہر کے لیے تصحیحات۔
+• ہوم اسکرین پر نماز کے بارے میں قرآنی آیات اور صحیح احادیث۔
+• 30 زبانیں، لائٹ اور ڈارک تھیم، انٹرنیٹ کے بغیر کام کرتی ہے۔
+
+نہ اشتہارات، نہ رجسٹریشن، نہ ٹریکنگ: تمام حسابات آپ کے فون پر ہوتے ہیں۔
+
+سوالات اور تجاویز: t.me/islam_proekti
+
+===== Language: uz =====
+App name: Namoz vaqtlari: azon va qibla
+Short description: Namoz vaqtlari muftiyatingiz eʼlon qilganidek, azon, qibla, Ramazon. Reklamasiz.
+Full description:
+Dunyoning istalgan shahri uchun aniq namoz vaqtlari — mamlakatingizdagi rasmiy diniy idora eʼlon qilganidek.
+
+• Mahalliy taqvim. Oʻzbekiston, Qozogʻiston, Qirgʻiziston, Tojikiston, Rossiya, Turkiya, Yaqin Sharq, Yevropa, Osiyo, Afrika va Amerika uchun ilova vaqtlarni rasmiy idora uslubida hisoblaydi: Oʻzbekiston musulmonlari idorasi, Qozogʻiston, Qirgʻiziston va Rossiya musulmonlari diniy idoralari, Diyanet, JAKIM, Kemenag, MUIS, vaqf vazirliklari, muftiyatlar va islom kengashlari. Taqvim qoʻlda tuzilgan joylarda rasmiy jadvallar ishlatiladi. Xohlasangiz, astronomik hisobga oʻtib, usulni tanlashingiz mumkin.
+• Ikki mazhab boʻyicha asr — hanafiy va shofiʼiy, farqi daqiqalarda.
+• Oʻz vaqtida azon. Madina azoni, «Hayya ʼalas-saloh» yoki oʻzingizning azoningiz. Quvvat tugmasi bilan toʻxtatiladi. 5–30 daqiqa oldin eslatma.
+• Qibla kompasi va Makkagacha masofa.
+• Ramazon: butun oy uchun saharlik va iftor vaqtlari, teskari sanoq, imsok.
+• Namoz kuzatuvchisi: oʻqigan namozlaringizni belgilang, ketma-ket kunlar va statistikani koʻring.
+• Oylik taqvim — chop eting yoki saqlang.
+• Keyingi namozgacha teskari sanoqli bosh ekran vidjeti.
+• Hijriy taqvim (Ummul-Quro), ±2 kun tuzatish bilan.
+• Oʻz manzilingiz: koordinatalar boʻyicha, «yaqin shahardagidek» farq bilan yoki oʻzingizning yillik taqvimingiz. Har bir shahar uchun tuzatishlar.
+• Bosh ekranda namoz haqidagi oyatlar va sahih hadislar.
+• 30 til, yorugʻ va qorongʻi mavzu, internetsiz ishlaydi.
+
+Reklama yoʻq, roʻyxatdan oʻtish yoʻq, kuzatuv yoʻq: barcha hisob-kitoblar telefoningizda bajariladi.
+
+Savol va takliflar: t.me/islam_proekti
+
+===== Language: zh-CN =====
+App name: 礼拜时间：邦克与朝向
+Short description: 按您所在国家官方伊斯兰机构公布的礼拜时间，邦克、朝向、斋月。无广告。
+Full description:
+为全球任何城市提供准确的礼拜时间——与您所在国家官方伊斯兰机构公布的一致。
+
+• 当地时间表。在俄罗斯、中亚、土耳其、中东、欧洲、亚洲、非洲和美洲，应用按照官方机构的方法计算时间：土耳其宗教事务局（Diyanet）、马来西亚 JAKIM、印度尼西亚 Kemenag、新加坡 MUIS、香港伊斯兰信托基金、台北清真大寺、各国宗教基金部（Awqaf）、穆夫提机构和伊斯兰理事会。对于人工编制时间表的地区，直接使用官方表格。也可以切换为天文计算并选择计算方法。
+• 两大教法学派的晡礼时间——哈乃斐派和沙斐仪派，并显示相差的分钟数。
+• 准时邦克。麦地那邦克、“快来礼拜”或您自己的邦克音频。按电源键即可停止。可提前 5–30 分钟提醒。
+• 朝向指南针及到麦加的距离。
+• 斋月：整月的封斋饭与开斋时间、倒计时、伊姆萨克（止食时间）。
+• 礼拜记录：标记已完成的礼拜，查看连续天数和统计。
+• 月度时间表——可打印或保存。
+• 主屏幕小部件，显示距下一次礼拜的倒计时。
+• 伊斯兰历（乌姆古拉历），可调整 ±2 天。
+• 自定义地点：按坐标、“参照附近城市”加时差，或使用您自己的全年时间表。可为每个城市单独微调。
+• 主屏幕显示关于礼拜的古兰经文和可靠圣训。
+• 30 种语言，浅色和深色主题，离线可用。
+
+无广告、无需注册、不追踪：所有计算均在您的手机上完成。
+
+问题与建议：t.me/islam_proekti
