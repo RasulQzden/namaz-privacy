@@ -1,2 +1,3 @@
-# namaz-privacy
-Privacy policy of the Prayer Times Android app
+# Privacy policy — Prayer Times / Расписание намазов
+
+https://rasulqzden.github.io/namaz-privacy/
